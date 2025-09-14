@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Camiseta Esportiva Dry-Fit",
+    "Cor": "Preto",
+    "Preco": 39.9,
+    "Tamanho": "M",
+    "Genero": "U",
+    "DataCadastro": "2022-06-01T14:22:10.123456"
+  },
+  {
+    "Id": 2,
+    "Nome": "Tênis de Corrida",
+    "Cor": "Azul",
+    "Preco": 199.9,
+    "Tamanho": "42",
+    "Genero": "M",
+    "DataCadastro": "2022-06-02T09:10:05.654321"
+  },
+  {
+    "Id": 3,
+    "Nome": "Jaqueta Corta Vento",
+    "Cor": "Vermelho",
+    "Preco": 149.5,
+    "Tamanho": "G",
+    "Genero": "U",
+    "DataCadastro": "2022-06-03T19:45:30.987654"
+  },
+  {
+    "Id": 4,
+    "Nome": "Legging Fitness",
+    "Cor": "Roxo",
+    "Preco": 89.9,
+    "Tamanho": "M",
+    "Genero": "F",
+    "DataCadastro": "2022-06-04T08:12:40.112233"
+  },
+  {
+    "Id": 5,
+    "Nome": "Boné Snapback",
+    "Cor": "Preto",
+    "Preco": 59.9,
+    "Tamanho": "U",
+    "Genero": "U",
+    "DataCadastro": "2022-06-05T17:55:15.445566"
+  }
+]
